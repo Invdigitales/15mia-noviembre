@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.8996324880573!2d-60.48633732422152!3d-35.10921702418816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bedc25f35af8e1%3A0xc6d92e76acfed347!2sSu%C3%A1rez%20931%2C%20Bragado%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1713803821971!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3273.563943262866!2d-58.52137712424821!3d-34.86718257286097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcd7ff131bfba3%3A0x9247d0903317cae8!2sTrinidad%20eventos!5e0!3m2!1ses!2sar!4v1756124941318!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
