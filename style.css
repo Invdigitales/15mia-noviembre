@@ -243,6 +243,8 @@ margin-left: 68%;
   overflow: hidden;
   border: 2px rgb(119, 119, 119);
   color: rgb(86, 86, 86);
+  background-image: url(./imagenes/brillo.gif);
+  background-size: 150%;
 }
 
 .boton{
@@ -299,6 +301,11 @@ margin-top: -25%;
     color:#F6B3B2;
     font-size: 224%;
     font-family: 'Great Vibes', cursive;
+}
+.parrafoD{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
 }
 
 .parrafo10{
@@ -368,6 +375,8 @@ margin-top: -25%;
   overflow: hidden;
   border: 2px rgb(119, 119, 119);
   color: rgb(86, 86, 86);
+  background-image: url(./imagenes/brillo.gif);
+  background-size: 150%;
   
 }
 .contenedorboton{
@@ -406,6 +415,8 @@ margin-top: -25%;
   border: 2px rgb(119, 119, 119);
   color: rgb(86, 86, 86);
   text-decoration: none;
+  background-image: url(./imagenes/brillo.gif);
+  background-size: 150%;
 }
 .esperamos{
   margin: 16%;
